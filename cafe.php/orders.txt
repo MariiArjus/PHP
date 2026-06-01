@@ -1,0 +1,9 @@
+2026-03-04 11:57 | Tellimus: 1 inimest, täidised: lisa puudub. Hind kokku: 5 € 
+2026-03-04 11:57 | Tellimus: 1 inimest, täidised: karamell, sokolaad. Hind kokku: 12 € 
+04.03.2026 11:59 - Tellimus esitatud 1 inimesele. Hind kokku: 12 €
+04.03.2026 11:59 - Tellimus esitatud 56 inimesele. Hind kokku: 672 €
+04.03.2026 11:59 - Tellimus esitatud 79 inimesele. Hind kokku: 948 €
+04.03.2026 12:00 - Tellimus esitatud -3 inimesele. Hind kokku: -27 €
+Inimesi: 2 | Lisandid: 3 | Kokku: 16 €
+Inimesi: 567 | Lisandid: 7 | Kokku: 6804 €
+Inimesi: 1 | Lisandid: 3 | Kokku: 8 €
